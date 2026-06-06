@@ -468,9 +468,88 @@ The focus is on **Python, NLP (Natural Language Processing), Statistics, Tokeniz
 - Feature Engineering (BoW, TF-IDF)
 - Cosine Similarity & Vector Space Models
 - Reusable NLP Pipeline Design
+
+- \
 - Vectorization using NumPy
 - Linear Algebra in NLP
 - Probability & Statistical Analysis on Text
 - Professional GitHub Project Structuring
 
 ---
+
+# 📘 Day 31 – LangChain Prompt Pipeline
+
+### 🎯 Objective
+- Learn prompt templates in LangChain  
+- Build structured LLM pipeline  
+
+### 🧠 Concepts Covered
+- PromptTemplate  
+- LLM Chain  
+- Input/Output handling  
+
+### 📁 File
+- Day31.py  
+
+---
+
+# 📘 Day 32 – Document Summarization
+
+### 🎯 Objective
+- Summarize large text using LLM  
+
+### 🧠 Concepts Covered
+- Text Summarization  
+- Chunking documents  
+- LLM response generation  
+
+### 📁 File
+- Day32.py  
+
+---
+
+# 📘 Day 33 – Chatbot with Memory
+
+### 🎯 Objective
+- Build chatbot with conversation memory  
+
+### 🧠 Concepts Covered
+- ConversationBufferMemory  
+- Stateful chatbot  
+- Context retention  
+
+### 📁 File
+- Day33.py  
+
+---
+
+# 📘 Day 34 – LLM Tools Integration
+
+### 🎯 Objective
+- Extend LLM capabilities using tools  
+
+### 🧠 Concepts Covered
+- Tool usage with LLM  
+- Function calling basics  
+- AI agent concept  
+
+### 📁 File
+- Day34.py  
+
+---
+
+# 📘 Day 35 – Context-Aware Chatbot
+
+### 🎯 Objective
+- Improve chatbot responses using context  
+
+### 🧠 Concepts Covered
+- Context-aware generation  
+- Prompt tuning  
+- Conversation handling  
+
+### 📁 File
+- Day35.py  
+
+---
+
