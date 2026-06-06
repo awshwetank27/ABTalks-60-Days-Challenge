@@ -332,3 +332,145 @@ The focus is on **Python, NLP (Natural Language Processing), Statistics, Tokeniz
 - `Day21.py`
 
 ---
+
+## 📘 Day 22 – Logistic Regression for Text Classification
+### 🎯 Objective
+- Train a basic ML model  
+
+### 🧠 Concepts Covered
+- Logistic Regression  
+- Text Classification  
+- Training & Prediction  
+
+### 📂 File
+- `Day22.py`
+
+---
+
+## 📘 Day 23 – TF-IDF + ML Classifier
+### 🎯 Objective
+- Combine feature engineering with ML  
+
+### 🧠 Concepts Covered
+- TF-IDF Vectorization  
+- Feature Engineering  
+- Model Training  
+
+### 📂 File
+- `Day23.py`
+
+---
+
+## 📘 Day 24 – Model Evaluation Metrics
+### 🎯 Objective
+- Evaluate ML model performance  
+
+### 🧠 Concepts Covered
+- Accuracy  
+- Precision  
+- Recall  
+- F1 Score  
+- Classification Report  
+
+### 📂 File
+- `Day24.py`
+
+---
+
+## 📘 Day 25 – Hyperparameter Tuning
+### 🎯 Objective
+- Improve model performance  
+
+### 🧠 Concepts Covered
+- GridSearchCV  
+- Parameter Tuning  
+- Model Optimization  
+
+### 📂 File
+- `Day25.py`
+
+---
+
+## 📘 Day 26 – Machine Learning Pipeline
+### 🎯 Objective
+- Build an end-to-end ML pipeline  
+
+### 🧠 Concepts Covered
+- Data Preprocessing  
+- Model Integration  
+- Pipeline Design  
+- Scalability  
+
+### 📂 File
+- `Day26.py`
+
+---
+
+## 📘 Day 27 – Sentiment Analysis Project
+### 🎯 Objective
+- Build a real-world NLP project  
+
+### 🧠 Concepts Covered
+- Text Classification  
+- Sentiment Analysis  
+- Model Evaluation  
+
+### 📂 File
+- `Day27.py`
+
+---
+
+## 📘 Day 28 – Weekly ML Assessment
+### 🎯 Objective
+- Review ML workflow  
+
+### 🧠 Concepts Covered
+- Pipeline + Evaluation  
+- Model Testing  
+- End-to-End Flow  
+
+### 📂 File
+- `Day28.py`
+
+---
+
+## 📘 Day 29 – OpenAI API & LLM Basics
+### 🎯 Objective
+- Understand LLM and API interaction  
+
+### 🧠 Concepts Covered
+- OpenAI API  
+- Prompt → Response Flow  
+- AI Chatbot  
+
+### 📂 File
+- `Day29.py`
+
+---
+
+## 📘 Day 30 – Prompt Engineering
+### 🎯 Objective
+- Design effective prompts for AI tasks  
+
+### 🧠 Concepts Covered
+- Prompt Structure  
+- Role-based Prompting  
+- Summarization  
+- Question Answering  
+
+### 📂 File
+- `Day30.py`
+
+# 🎯 Key Learning Outcomes
+- Strong foundation in Python for NLP
+- Deep understanding of Text Preprocessing
+- Hands-on experience with Tokenizers (BPE, WordPiece)
+- Feature Engineering (BoW, TF-IDF)
+- Cosine Similarity & Vector Space Models
+- Reusable NLP Pipeline Design
+- Vectorization using NumPy
+- Linear Algebra in NLP
+- Probability & Statistical Analysis on Text
+- Professional GitHub Project Structuring
+
+---
